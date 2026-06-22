@@ -1,0 +1,31 @@
+{
+  "name": "sieuwke-sheta-portfolio",
+  "version": "1.0.0",
+  "description": "Sieuwke's portfolio",
+  "main": "server.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdnd-task/sieuwke-sheta-portfolio.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "ejs"
+  ],
+  "author": "Sieuwke Sheta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fdnd-task/sieuwke-sheta-portfolio/issues"
+  },
+  "homepage": "https://github.com/fdnd-task/sieuwke-sheta-portfolio#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.6"
+  }
+}
