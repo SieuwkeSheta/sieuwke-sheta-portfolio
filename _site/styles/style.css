@@ -1,0 +1,16 @@
+article {
+    border: 1px solid black;
+    padding: 1em;
+    margin: 1em;
+
+    a {
+      display: grid;
+      justify-items: center;
+      width: fit-content;
+      font-size: small;
+
+      svg {
+        display: block;
+      }
+    }
+  }
